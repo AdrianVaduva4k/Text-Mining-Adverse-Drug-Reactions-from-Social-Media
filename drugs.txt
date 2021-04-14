@@ -83,7 +83,8 @@ metoclopramide
 domperidone
 atropine
 hyoscine butylbromide
-quetiapine, olanzapine
+quetiapine
+olanzapine
 risperidone
 bronchodilators	tiotropium
 ipratropium bromide
