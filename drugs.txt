@@ -1,0 +1,123 @@
+omeprazole
+lansoprazole
+simvastatin
+atorvastatin
+pravastatin
+Paracetamol
+bisoprolol
+atenolol
+propranolol
+amlodipine
+felodipine
+diltiazem
+nifedipine
+lercanidipine
+cyclizine
+cetirizine
+loratadine
+fexofenadine
+chlorphenamine
+Aspirin
+tramadol
+codeine
+dihydrocodeine
+morphine
+salbutamol
+salmeterol
+ramipril
+lisinopril
+perindopril
+furosemide
+bumetanide
+warfarin
+folic acid
+thiamine hydrochloride
+vitamin B
+naproxen
+ibuprofen
+amoxicillin
+co‐amoxiclav
+osmotic	macrogol
+lactulose
+citalopram
+sertraline
+fluoxetine
+systemic	prednisolone
+stimulant	senna
+docusate sodium
+beclometasone
+fluticasone
+budesonide
+levothyroxine
+diazepam
+temazepam
+lorazepam
+doxazosin
+tamsulosin
+metformin
+Insulin
+losartan
+candesartan
+irbesartan
+hydrocortisone
+amitriptyline
+clopidogrel
+clotrimazole
+ketononazole
+ranitidine
+bendroflumethiazide
+indapamide
+Emollients
+mononitrate
+glyceryl trinitrate
+Trimethoprim
+alendronic acid
+flucloxacillin
+gliclazide
+clarithromycin
+venlafaxine
+mirtazapine
+zopiclone
+hypromellose
+metoclopramide
+domperidone
+atropine
+hyoscine butylbromide
+quetiapine, olanzapine
+risperidone
+bronchodilators	tiotropium
+ipratropium bromide
+Methotrexate
+solifenacin
+tolterodine
+oxybutynin
+azathioprine
+Tetracyclines	doxycycline
+spironolactone
+Metronidazole
+sitagliptin
+linagliptin
+loperamide
+Quinine sulfate
+Lamotrigine
+rivaroxaban
+apixaban
+dabigatran
+haloperidol
+carbocisteine
+Levetiracetam
+latanoprost
+benzylpenicillin
+phenoxymethylpenicillin
+Valproate
+finasteride
+Chloramphenicol
+Nitrofurantoin
+Carbamazepine
+aciclovir
+ceftriaxone
+cefalexin
+lidocaine
+Amiodarone
+nicotine
+methadone
