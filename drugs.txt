@@ -123,3 +123,4 @@ lidocaine
 Amiodarone
 nicotine
 methadone
+modafinil
